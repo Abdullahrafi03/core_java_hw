@@ -23,19 +23,6 @@ public Computer(String name, String model, int price, String operatingsystem, ch
 System.out.println("My computer is: " + name + "\tMy Computer model is: " + model + "\tPrice is: " + price + "\toperatingsystem is: " +
 		operatingSystem + "\tgrade is :" + grade + "\tMy Computer is made in USA :" + madeinusa);
 		 
-		
-		
-	}
+}
 	
-	
-	
-
-		
-		
-		
-		
-	
-	
-
-
-	}
+}
