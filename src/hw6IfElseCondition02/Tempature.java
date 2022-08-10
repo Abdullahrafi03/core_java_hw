@@ -7,17 +7,17 @@ public class Tempature {
 		System.out.println("Today's Temperature");
 		
 		Scanner scanner = new Scanner(System.in);
-		int Temperature = scanner.nextInt();
-		if (Temperature < 32) {
+		int temperature = scanner.nextInt();
+		if (temperature < 32) {
 			System.out.println("It will Be Freezing");
 	
-		}else if (Temperature < 55) {
+		}else if (temperature < 55) {
 			System.out.println("It will Be Pleasent");
 		
-		}else if (Temperature < 73) {
+		}else if (temperature < 73) {
 			System.out.println("It's getting Warmer");
 		
-		}else if (Temperature < 101) {
+		}else if (temperature < 101) {
 		    System.out.println("It is Very hot");
 		
 		}else {
